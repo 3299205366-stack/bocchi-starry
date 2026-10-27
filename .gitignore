@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.pyc
+.tools/
+build/
+references/
+v1-backup/
+qa/*.png
+qa/*.jpg
+deploy/DEPLOYMENT.md
+deploy/install-remote.sh
+deploy/Caddyfile.fragment
+.env
+.env.*
+*.pem
+*.key
+*.tgz
+rewrite_stories.cjs
+
+# Unused downloaded media remain local; curated published assets are already tracked.
+dist/assets/

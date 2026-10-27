@@ -1,0 +1,106 @@
+[
+  {
+    "id": "0",
+    "song": "青春コンプレックス",
+    "musicId": 2003496500,
+    "duration": 203.676689,
+    "lyricDuration": 203.626,
+    "source": "https://music.163.com/song?id=2003496500"
+  },
+  {
+    "id": "1",
+    "song": "ギターと孤独と蒼い惑星",
+    "musicId": 1991012773,
+    "duration": 228.989378,
+    "lyricDuration": 228.96,
+    "source": "https://music.163.com/song?id=1991012773"
+  },
+  {
+    "id": "2",
+    "song": "星座になれたら",
+    "musicId": 2003496380,
+    "duration": 258.220378,
+    "lyricDuration": 258.173,
+    "source": "https://music.163.com/song?id=2003496380"
+  },
+  {
+    "id": "3",
+    "song": "忘れてやらない",
+    "musicId": 2003496467,
+    "duration": 223.399125,
+    "lyricDuration": 223.36,
+    "source": "https://music.163.com/song?id=2003496467"
+  },
+  {
+    "id": "4",
+    "song": "あのバンド",
+    "musicId": 1996323631,
+    "duration": 213.838313,
+    "lyricDuration": 213.786,
+    "source": "https://music.163.com/song?id=1996323631"
+  },
+  {
+    "id": "5",
+    "song": "Distortion!!",
+    "musicId": 1983016236,
+    "duration": 203.52,
+    "lyricDuration": 203.493,
+    "source": "https://music.163.com/song?id=1983016236"
+  },
+  {
+    "id": "6",
+    "song": "カラカラ",
+    "musicId": 1988861403,
+    "duration": 265.168938,
+    "lyricDuration": 265.133,
+    "source": "https://music.163.com/song?id=1988861403"
+  },
+  {
+    "id": "7",
+    "song": "なにが悪い",
+    "musicId": 1996323629,
+    "duration": 227.395878,
+    "lyricDuration": 227.36,
+    "source": "https://music.163.com/song?id=1996323629"
+  },
+  {
+    "id": "8",
+    "song": "光の中へ",
+    "musicId": 2045878962,
+    "duration": 258.312,
+    "lyricDuration": 258.321,
+    "source": "https://music.163.com/song?id=2045878962"
+  },
+  {
+    "id": "9",
+    "song": "ひとりぼっち東京",
+    "musicId": 1984541377,
+    "duration": 232.280813,
+    "lyricDuration": 232.24,
+    "source": "https://music.163.com/song?id=1984541377"
+  },
+  {
+    "id": "10",
+    "song": "小さな海",
+    "musicId": 2003496924,
+    "duration": 223.8955,
+    "lyricDuration": 223.866,
+    "source": "https://music.163.com/song?id=2003496924"
+  },
+  {
+    "id": "11",
+    "song": "転がる岩、君に朝が降る",
+    "musicId": 2003496765,
+    "duration": 271.856313,
+    "lyricDuration": 271.813,
+    "source": "https://music.163.com/song?id=2003496765"
+  },
+  {
+    "id": "12",
+    "song": "milky way",
+    "musicId": 2624523917,
+    "duration": 212.64,
+    "lyricDuration": 212.613,
+    "source": "https://music.163.com/song?id=2624523917"
+  }
+]
